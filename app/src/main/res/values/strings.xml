@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mapper</string>
+    <string name="google_maps_android_key">AIzaSyD3fE1V3l0FjQY443caobF4osEwLe97PfM</string>
+
+    <!-- Marker Info Window -->
+    <string name="marker_name">%1$s</string>
+    <string name="marker_license_plate">Matrícula: %1$s</string>
+    <string name="marker_battery_level">Batería: %1$d%%</string>
+    <string name="marker_helmets">Cascos: %1$d</string>
+    <string name="marker_model">Modelo: %1$s</string>
+    <string name="marker_bikes_available">Disponibles: %1$d</string>
+    <string name="marker_scheduled_arrival">Tiempo estimado: %1$d</string>
+
+</resources>
